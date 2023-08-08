@@ -1,0 +1,4 @@
+2023-07-28 23:19:45 - Operation: insert, Table: users, Data: {"name":"John Doe","email":"john@example.com"}
+2023-08-08 22:02:27 - Operation: insert, Table: users, Data: {"name":"John Doe","email":"john@example.com"}
+2023-08-08 22:02:27 - Operation: insert, Table: users, Data: {"name":"John Doe","email":"john@example.com"}
+2023-08-08 22:03:51 - Operation: insert, Table: users, Data: {"name":"John Doe","email":"john@example.com"}
